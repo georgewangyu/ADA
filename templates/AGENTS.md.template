@@ -2,9 +2,10 @@
 
 At session start, read in order:
 
-1. `AGENT.md`
-2. `README.md`
-3. `SOUL.md`
+1. `../ADA/AGENT-CANONICAL.md` (if available; adjust path if ADA is elsewhere)
+2. `AGENT.md`
+3. `README.md`
+4. `SOUL.md`
 
 Then load nearest task-relevant docs.
 
