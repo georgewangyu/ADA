@@ -1,0 +1,19 @@
+# Project Name
+
+Short project description.
+
+## Setup
+
+- Install:
+- Run:
+- Test:
+
+## Structure
+
+List major folders and their purpose.
+
+## Agent Context
+
+- `AGENTS.md` for startup instructions
+- `AGENT.md` for project workflow rules
+- `SOUL.md` for assistant behavior baseline

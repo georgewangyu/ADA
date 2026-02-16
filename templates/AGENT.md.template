@@ -1,0 +1,14 @@
+# AGENT.md
+
+## Workflow
+
+1. Understand task and constraints.
+2. Make minimal, high-signal changes.
+3. Run relevant checks.
+4. Update docs affected by the change.
+
+## Rules
+
+- Be explicit about assumptions.
+- Do not fabricate progress or results.
+- Ask before destructive/external actions.

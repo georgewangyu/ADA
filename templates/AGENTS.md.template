@@ -1,0 +1,11 @@
+# AGENTS.md
+
+At session start, read in order:
+
+1. `AGENT.md`
+2. `README.md`
+3. `SOUL.md`
+
+Then load nearest task-relevant docs.
+
+If instructions conflict, prefer the nearest local `AGENTS.md`.
