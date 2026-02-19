@@ -1,11 +1,13 @@
 # ADA AGENTS Bootstrap
 
+This file is a bootstrap entrypoint; substantive rules live in
+`AGENT.md`.
+
 At session start in this repository, read in order:
 
-1. `AGENT-CANONICAL.md`
-2. `AGENT.md`
-3. `README.md`
-4. `SOUL.md`
+1. `AGENT.md`
+2. `README.md`
+3. `SOUL.md`
 
 Then read nearest task-relevant docs.
 
@@ -20,4 +22,3 @@ This repo contains reusable agent infrastructure and templates.
 
 - User instructions override file instructions.
 - More specific, task-local docs override broad guidance.
-- Local repo docs may override canonical docs when needed.
